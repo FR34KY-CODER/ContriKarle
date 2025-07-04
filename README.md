@@ -1,6 +1,6 @@
 # 📟 Contrikarle - Smart Expense Splitter App
 
-<img src="https://github.com/FR34KY-CODER/ContriKarle/blob/main/ContriKarle.png?raw=true">
+<img src="https://github.com/FR34KY-CODER/ContriKarle/blob/main/ContriKarle.png?raw=true", height = 200px, width = 200px, align = center>
 ![Jetpack Compose](https://img.shields.io/badge/Made%20With-Jetpack%20Compose-4285F4?logo=android\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-purple?logo=kotlin\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?logo=firebase)
