@@ -151,8 +151,8 @@ Game dev, ML dev, Kotlin madlad, and hardcore caffeine-fueled builder.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
 
 ---
 
-> ⚡ *Contrikarle* — "Split smart, stay savage."
+> ⚡ *Contrikarle* — "Contri Karo, Dost bane Raho! :D."
