@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContriKarle</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_dashboard_screen">DashboardScreen</string>
+    <string name="title_activity_gradient_button">GradientButton</string>
+    <string name="title_activity_avatar_image">AvatarImage</string>
+</resources>
