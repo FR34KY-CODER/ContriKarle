@@ -126,7 +126,7 @@ com.example.contrikarle
 
 ## 🌄 Screenshots
 
-<p align = "left"><img src = "https://github.com/FR34KY-CODER/ContriKarle/blob/main/screenshots/contriapp.png?raw=true" height = 600px width = 200px></p>
+<p align = "left"><img src = "https://github.com/FR34KY-CODER/ContriKarle/blob/main/screenshots/contriapp.png?raw=true" height = 500px ></p>
 > Coming Soon — once UI is fully built.
 
 ---
