@@ -133,14 +133,14 @@ com.example.contrikarle
 ## ✨ TODO (Milestones)
 
 * [x] Firebase Auth with Google Sign-In
-* [ ] Home Screen with Group/Event Listing
-* [ ] Group Creation with Member Add
-* [ ] Expense Creation with Dynamic Splits
-* [ ] Firebase Firestore Integration
+* [x] Home Screen with Group/Event Listing
+* [x] Group Creation with Member Add
+* [x] Expense Creation with Dynamic Splits
+* [x] Firebase Firestore Integration
 * [ ] Settle Up Smart Logic
 * [ ] Notifications for Due Expenses
 * [ ] SMS & OCR-based Expense Extraction
-* [ ] Polished UI + Animations
+* [x] Polished UI + Animations
 * [ ] Deploy to Play Store
 
 ---
