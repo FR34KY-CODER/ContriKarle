@@ -126,6 +126,7 @@ com.example.contrikarle
 
 ## 🌄 Screenshots
 
+<p align = "left"><img src = "https://camo.githubusercontent.com/36d442331d8496801685f7bc0a52414731030137d788573584398ea331ea1631/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54696c6d4c4d6d5772525959486a4c6675622f67697068792e676966"></p>
 > Coming Soon — once UI is fully built.
 
 ---
