@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70297833790",
+    "project_id": "contrikaro-24072003",
+    "storage_bucket": "contrikaro-24072003.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70297833790:android:f77a34952edfd80681dc6f",
+        "android_client_info": {
+          "package_name": "com.example.contrikaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70297833790-hf3ehsaff0l5s7q3mkgb2de1esspd2t4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contrikaro",
+            "certificate_hash": "2c4a8f4e49f34de35979339a3cbb090ca0b30534"
+          }
+        },
+        {
+          "client_id": "70297833790-bmsrltu0f5c9l7imn3lqpiann492kmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflpPaRCbDmQ8Kw5BUJLDKpLXeNy-hAco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70297833790-bmsrltu0f5c9l7imn3lqpiann492kmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
